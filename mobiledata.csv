@@ -1,0 +1,20 @@
+model_no,company,color,imei_no,fcamera,bcamera,storage,processor,ram,os,price,qty
+Samsung galaxy S8,Samsung,black,9.97854E+14,16MP,20MP,64B,octa core,4GB,Android OS v7.0,89999,6
+Samsung galaxy on8,Samsung,white,9.87459E+14,5MP,16MP,16GB,octa core,3GB,Android OS v6.0,13490,9
+Samsung Galaxy Grand,Samsung,black,9.91244E+14,2MP,8MP,8GB,quad core,2GB,Android OS v5.0,14999,4
+Samsun Galaxy s3,Samsung,neavy blue,2.65897E+14,2MP,8MP,16GB,dual core,4GB,Android OS v5.0,12500,6
+Moto g4,Motorolla,black,9.84512E+14,8MP,16MP,32GB,octa core,2GB,Android OS v6.0,15000,9
+Moto g5 plus,Motorolla,amber brown,9.41579E+14,8MP,16MP,32GB,octa core,3GB,Android OS v6.0,18999,12
+Moto e3,Motorolla,white,3.65894E+14,5MP,8MP,16GB,quad core,3GB,Android OS v5.0,10999,7
+Moto g plus,Motorolla,black,9.85418E+14,8MP,16MP,8GB,octa core,2GB,Android OS v6.0.1,12499,7
+Samsung on7 pro,Samsung,golden,9.67845E+14,5MP,13MP,16GB,quad core,2GB,Android OS v6.0,9490,8
+Vivo v5,Vivo,white,3.56987E+14,13MP,20MP,32GB,octa core,4GB,Android OS v6.0,17499,6
+Vivo y211,Vivo,golden,9.02139E+14,2MP,5MP,16GB,quad core,1GB,Android OS v5.1,7195,9
+Intex aqua q7n,Intex,white,3.56987E+14,2MP,5MP,8GB,quad core,512MB,Android OS v4.0,2799,4
+Micromax Canvas Nitro,Micromax,black,6.98574E+14,5MP,13MP,16GB,quad core,2GB,Android OS v4.0,16999,7
+Oppo a37,Oppo,golden,9.11451E+14,5MP,8MP,16GB,octa core,2GB,Android OS v5.0,10990,4
+Honor holly2,Honor,black,4.56631E+14,5MP,13MP,16GB,octa core,2GB,Android OS v5.1,8339,6
+Lava iris fuel,Lava,black,9.24512E+14,2MP,8MP,8GB,quad core,2GB,Android OS v5.0,8700,7
+Lava a97,Lava,grey,3.56742E+14,5MP,5MP,8GB,octa core,1GB,Android OS v6.0,5549,4
+Coolpad Mega,Redmi,grey,6.98574E+14,8MP,8MP,16GB,octa core,3GB,Android OS v6.0,6999,6
+Coolpad note5,Redmi,royal gold,4.58963E+14,8MP,13MP,32GB,octa core,4GB,Android OS v6.0,10999,7
